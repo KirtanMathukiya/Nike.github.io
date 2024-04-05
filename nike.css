@@ -7,16 +7,16 @@
 
 /* Body */
 body {
-    background: linear-gradient(to bottom right, #FF5F6D, #FFC371); /* Gradient background */
+    background: linear-gradient(to bottom right, #27273F, #9A2C8F); /* Gradient background */
     background-repeat: no-repeat;
     background-attachment: fixed;
+    color: #ffffff; /* White text color for better contrast */
 }
 
 /* Hero Section */
 .hero {
     padding: 100px 0;
     text-align: center;
-    color: #ffffff; /* White text color for the hero section */
 }
 
 /* Featured Products Section */
@@ -37,4 +37,3 @@ body {
     padding: 100px 0;
     text-align: center;
 }
-
