@@ -1,0 +1,40 @@
+/* Custom Styles */
+
+/* Navbar */
+.navbar {
+    background-color: #ffffff; /* White background for the navbar */
+}
+
+/* Body */
+body {
+    background: linear-gradient(to bottom right, #FF5F6D, #FFC371); /* Gradient background */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Hero Section */
+.hero {
+    padding: 100px 0;
+    text-align: center;
+    color: #ffffff; /* White text color for the hero section */
+}
+
+/* Featured Products Section */
+.featured-products {
+    padding: 100px 0;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+}
+
+/* Athlete Endorsements Section */
+.athlete-endorsements {
+    padding: 100px 0;
+    text-align: center;
+}
+
+/* Community Engagement Section */
+.community-engagement {
+    padding: 100px 0;
+    text-align: center;
+}
+
