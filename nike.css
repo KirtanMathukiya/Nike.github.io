@@ -7,6 +7,8 @@
 
 /* Body */
 body {
+    padding: 0px;
+    margin: 0px;
     background: linear-gradient(to bottom right, #27273F, #9A2C8F); /* Gradient background */
     background-repeat: no-repeat;
     background-attachment: fixed;
