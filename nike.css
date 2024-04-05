@@ -21,12 +21,15 @@ body {
     text-align: center;
 }
 
-/* Featured Products Section */
 .featured-products {
-    padding: 100px 0;
+    background-image: url("./w4.png");
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-size: cover; /* Ensure the background image covers the entire element */
+    padding: 50px 0;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
 }
+
+
 
 /* Athlete Endorsements Section */
 .athlete-endorsements {
@@ -38,8 +41,4 @@ body {
 .community-engagement {
     padding: 100px 0;
     text-align: center;
-}
-
-.featured-products{
-    background-image: url("./w1.png");
 }
