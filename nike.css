@@ -39,3 +39,7 @@ body {
     padding: 100px 0;
     text-align: center;
 }
+
+.featured-products{
+    background-image: url("./w1.png");
+}
