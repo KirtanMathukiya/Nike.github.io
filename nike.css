@@ -8,6 +8,11 @@
     z-index: 1000;
 }
 
+.btn:hover {
+    transform: scale(1.02); /* Increase button size slightly on hover */
+    transition: transform 0.2s ease-in-out; /* Smooth transition effect */
+  }  
+
 .hero,
 .featured-products,
 .athlete-endorsements,
